@@ -1,5 +1,5 @@
 # PlexGuide.com - Version 5
-
+ 
 <p align="center">
   <img src="https://github.com/Admin9705/PlexGuide.com-The-Awesome-Plex-Server/blob/Version-5/scripts/plexguide.PNG" alt="PlexGuide.com Logo"/>
 </p>
